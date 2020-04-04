@@ -13,8 +13,8 @@ It's easy to explain how it worked:
 5. Depends on which page it visited next, the backend knows the picked option is an imposter or not, and if the other options are humans.
 6. Do next question
 
-How it worked?
-![](https://i.imgur.com/FQIqFIA.gif)
+How it worked?  
+[Link to gif because it exceeded 5MB limit](https://i.imgur.com/FQIqFIA.gif)
 
 How to setup:  
 Really? The event has ended, my dude!  
